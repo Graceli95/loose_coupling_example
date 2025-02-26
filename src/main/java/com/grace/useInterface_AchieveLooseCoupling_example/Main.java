@@ -20,6 +20,14 @@ public class Main {
 
     }
 }
+///**
+// * How Interfaces Help Achieve Loose Coupling
+// * Abstraction:
+// * Interfaces define what a class should do, not how it does it. This lets you change the implementation without affecting the dependent classes.
+// *
+// * Dependency Injection:
+// * By injecting an interface instead of a concrete class, you can easily swap implementations.
+// */
 
 /**
  * 🚀 What’s Happening Here?
