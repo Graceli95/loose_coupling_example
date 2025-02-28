@@ -9,7 +9,7 @@ public class Client {
         Traveler traveler1 = new Traveler(currentMovingVehicle);
         traveler1.startJourney(); // Output: Bike is moving ..
 
-        //2. Traveler wants to use a Car
+        //2. If Traveler wants to use a Car
 //        Vehicle car = new Car();
 //        Traveler traveler2 = new Traveler(car);
 //        traveler2.startJourney(); // Output: Car is moving ..
